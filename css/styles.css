@@ -2,3 +2,8 @@ header{
   background: #456784;
   border: solid 2px #aaaaaa;
 }
+
+footer{
+  background: #f2f2f2;
+  color: #ff0000;
+}
